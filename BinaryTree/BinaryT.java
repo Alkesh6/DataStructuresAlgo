@@ -125,17 +125,17 @@ public class BinaryT {
         // System.out.println(root.data);
         preorder(root);
         System.out.println();
-        inorder(root);
-        System.out.println();
-        postorder(root);
-        System.out.println();
-        levelOrder(root);
-        System.out.println();
-        System.out.println(countOfNodes(root));
-        System.out.println();
-        System.out.print(sumOfNodes(root));
-        System.out.println();
-        System.out.print(heightofTree(root));
+        // inorder(root);
+        // System.out.println();
+        // postorder(root);
+        // System.out.println();
+        // levelOrder(root);
+        // System.out.println();
+        // System.out.println(countOfNodes(root));
+        // System.out.println();
+        // System.out.print(sumOfNodes(root));
+        // System.out.println();
+        // System.out.print(heightofTree(root));
         
     }
     

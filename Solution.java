@@ -1,16 +1,21 @@
-import java.util.Scanner;
-public class Solution{
-    public static void spell(int num){
-        String book[] = null;
-        Scanner q = new Scanner(System.in);
-        String casts[] = null;
-        int i = 1;
-        while (i <= num) {
-            book[i] = q.toString();
-        }
+class Solution
 
-    }
-    public static void main(String[] args) {
-        
-    }
+{
+
+    static
+
+{          
+
+ System.out.println("Welcome");
+
+}
+
+public static void main(String args[])
+
+{
+
+System.out.println("Hello");
+
+}
+
 }
